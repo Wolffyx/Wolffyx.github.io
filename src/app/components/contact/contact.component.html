@@ -1,0 +1,28 @@
+<section fxLayout fxLayoutAlign="center center">
+	<div fxFlex="40%" fxLayout="column" fxLayoutAlign="center center">
+		<h2>Contact me</h2>
+		<form (ngSubmit)="send()" [formGroup]="form"
+			  fxLayout="column"
+			  fxLayoutAlign="start center">
+			<mat-form-field fxFill>
+				<mat-label>Input</mat-label>
+				<input formControlName="name" id="name" matInput name="name">
+			</mat-form-field>
+			<mat-form-field fxFill>
+				<mat-label>Input</mat-label>
+				<input formControlName="email" id="email" matInput name="email">
+			</mat-form-field>
+			<mat-form-field fxFill>
+				<mat-label>Input</mat-label>
+				<input formControlName="subject" id="subject" matInput name="subject">
+			</mat-form-field>
+			<mat-form-field fxFill>
+				<mat-label>Textarea</mat-label>
+				<textarea formControlName="message" id="message" matInput name="message"></textarea>
+			</mat-form-field>
+		</form>
+		<button mat-button>
+			Contact me
+		</button>
+	</div>
+</section>
