@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b86e841-3d06-443a-98bf-91cd3295779f" name="Changes" comment="Round 2 v1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9b86e841-3d06-443a-98bf-91cd3295779f" name="Changes" comment="Round 2 v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <updated>1728164130787</updated>
       <workItem from="1728164131895" duration="85000" />
       <workItem from="1728164222110" duration="2756000" />
-      <workItem from="1728246187430" duration="2151000" />
+      <workItem from="1728246187430" duration="2907000" />
     </task>
     <task id="LOCAL-00001" summary="Updated next.js config">
       <option name="closed" value="true" />
@@ -128,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728247436419</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Round 2 v2">
+      <option name="closed" value="true" />
+      <created>1728248690105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728248690105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,7 @@
     <MESSAGE value="Updated next.js config and commented sentry config" />
     <MESSAGE value="Round 2" />
     <MESSAGE value="Round 2 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Round 2 v1" />
+    <MESSAGE value="Round 2 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Round 2 v2" />
   </component>
 </project>
