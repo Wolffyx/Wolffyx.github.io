@@ -51,3 +51,5 @@ const nextConfig = {
 // // https://vercel.com/docs/cron-jobs
 // automaticVercelMonitors: true,
 // });
+
+export default nextConfig;
