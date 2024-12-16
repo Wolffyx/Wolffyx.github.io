@@ -2,7 +2,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    // basePath: "/Wolffyx.github.io",
+    basePath: "/Wolffyx.github.io",
 
     /**
      * Disable server-based image optimization. Next.js does not support
