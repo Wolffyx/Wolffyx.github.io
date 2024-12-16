@@ -4,90 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4794133d-cc2f-4df2-95a2-61d7400a8d71" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4794133d-cc2f-4df2-95a2-61d7400a8d71" name="Changes" comment="Update 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/global-error.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/global-error.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/provider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sentry-example-page/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/sentry-example-page/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Approach.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Approach.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Clients.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Clients.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Experience.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Experience.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Grid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MagicButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MagicButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/RecentProjects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RecentProjects.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/BentoGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/BentoGrid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/CanvasRevealEffect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/CanvasRevealEffect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/FloatingNavbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/FloatingNavbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/Globe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Globe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/GradientBg.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/GradientBg.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/GridGlobe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/GridGlobe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/HoverBorder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/HoverBorder.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/InfiniteCards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/InfiniteCards.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/LayoutGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/LayoutGrid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/MovingBorders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/MovingBorders.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/Pin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Pin.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/Spotlight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Spotlight.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/TextGenerateEffect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/TextGenerateEffect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/globe.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/globe.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+    </list>
+    <list id="260f2cc8-7739-49e1-aa5b-2efebe218dc1" name="Local" comment="">
       <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/app.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/appName.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/appName.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/b1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/b1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/b4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/b4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/b5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/b5.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/c.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cloud.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/cloudName.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cloudName.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/dock.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/dock.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/dockerName.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/dockerName.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/exp1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/exp1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/exp2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/exp2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/exp3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/exp3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/exp4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/exp4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fm.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/footer-grid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/footer-grid.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/git.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/git.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/grid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/grid.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/gsap.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/gsap.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/host.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/host.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hostName.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/hostName.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/insta.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/insta.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/link.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/link.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/p1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/p2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/p3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/p4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/re.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/re.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/s.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/s.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stream.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/stream.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/streamName.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/streamName.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tail.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/three.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/three.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ts.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ts.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/twit.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/wha.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/wha.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentry.client.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sentry.client.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentry.edge.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sentry.edge.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentry.server.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sentry.server.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +81,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4794133d-cc2f-4df2-95a2-61d7400a8d71" name="Changes" comment="" />
+      <changelist id="260f2cc8-7739-49e1-aa5b-2efebe218dc1" name="Local" comment="" />
       <created>1728498518846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -167,11 +90,33 @@
       <workItem from="1728938863916" duration="33000" />
       <workItem from="1729016462929" duration="1841000" />
       <workItem from="1729054987089" duration="6153000" />
-      <workItem from="1734381911776" duration="4149000" />
+      <workItem from="1734381911776" duration="4844000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 2">
+      <option name="closed" value="true" />
+      <created>1734388195585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734388195585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update 3">
+      <option name="closed" value="true" />
+      <created>1734388211537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734388211537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 2" />
+    <MESSAGE value="Update 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 3" />
   </component>
 </project>
