@@ -2,8 +2,8 @@
 
 import { FaLocationArrow } from "react-icons/fa6";
 
-import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
+import {projects} from "@/data/projects";
 
 const RecentProjects = () => {
   return (

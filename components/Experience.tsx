@@ -1,7 +1,7 @@
 import React from "react";
 
-import { workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
+import {workExperience} from "@/data/experience";
 
 const Experience = () => {
   return (
